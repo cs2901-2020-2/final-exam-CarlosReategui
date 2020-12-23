@@ -184,6 +184,7 @@ public class Blockudoku {
             if (!ponerPieza(piezaElegida, x, y) && logger.isLoggable(Level.INFO)) {
                 logger.info("La pieza no es válida. Volver a intentar");
             }
+            checkPuntaje();
         }
     }
 }
