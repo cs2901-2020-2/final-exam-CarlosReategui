@@ -1,59 +1,0 @@
-
-(blockudoku.Blockudoku#checkHorizontal()I[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaœ œ(%"8*Ê
-5[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java¡ ¡(¨
-¥
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java¡ ¡(
-%2java.lang.String[][]"__id*$*"
-blockudoku.Blockudoku"
-table¬
-©
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java¡ ¡(
-%3java.lang.String[]"
-__arrayGet*
-
-%2java.lang.String[][]*
-""¨
-¥
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java¡ ¡(
-%4java.lang.String"
-__arrayGet*
-
-%3java.lang.String[]*
-""Ú×
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java¡ ¡(+
-%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-%4java.lang.String*
--2equals(Ljava/lang/Object;)*
-6
-8*â
-6[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java   (x
-v
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java    (!	
-%1int"__id*
-""*
-5
-8*â
-8[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaž ž(x
-v
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaž ž(	
-%0int"__id*
-""*
-6
-1*Ç
-1[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java§ §("e
-[
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java§ §(
-""B"
-blockudoku.Blockudoku

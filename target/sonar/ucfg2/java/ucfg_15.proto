@@ -1,99 +1,0 @@
-
-Pblockudoku.Blockudoku#ingresarCoordenada(Ljava/util/Scanner;Ljava/lang/String;)IY
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javae e(("7*—
-4Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javak k(®«
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javak k( 
-
-%10int"java.util.Scanner#nextInt()I*
-
-injava.util.Scanner2	nextInt()*
-6
-1*Ä
-5Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaj j(Œ
-‰
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaj j(
-%7java.util.logging.Logger"__id*
-""ØÕ
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaj j((
-%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
-
-sjava.lang.StringBuilder2
-toString()ôñ
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaj j()
-
-%9void"2java.util.logging.Logger#info(Ljava/lang/String;)V* 
-
-%7java.util.logging.Logger*
-
-%8java.lang.String2info(Ljava/lang/String;)*
-4*ž
-6Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javai i(Œ
-‰
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javai i(
-%4java.util.logging.Logger"__id*
-""‹
-ˆ
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javai" i(,
-%5java.util.logging.Level"__id*
-""˜•
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javai i(-
-%6boolean"?java.util.logging.Logger#isLoggable(Ljava/util/logging/Level;)Z* 
-
-%4java.util.logging.Logger*
-
-%5java.util.logging.Level2%isLoggable(Ljava/util/logging/Level;)*
-4
-5*·	
-7Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaf f(–“
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javag g(+
-%0java.lang.StringBuilder"java.lang.StringBuilderÈ
-Å
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javag g(7
-%1"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V*
-
-%0java.lang.StringBuilder*
-
-Ingrese ©¦
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javag g(J
-%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%0java.lang.StringBuilder* 
-
-
-coordenadajava.lang.String2append(Ljava/lang/String;)›˜
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javag g(c
-%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
-
-%2java.lang.StringBuilder*
- (entre 1 y 9)2append(Ljava/lang/String;)£
- 
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javag g(d
-sjava.lang.StringBuilder"__id*
-
-%3java.lang.StringBuilder*
-6*Ã
-1Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javam m("c
-Y
-O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javam m(
-"":
-injava.util.Scanner:
-
-coordenadajava.lang.StringB"
-blockudoku.Blockudoku
