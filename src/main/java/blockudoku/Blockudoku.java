@@ -135,8 +135,7 @@ public class Blockudoku {
     }
 
     public static int checkCuadrantes() {
-        int totalBlocks = 0;
-        return totalBlocks;
+        return 0;
     }
 
     public static int checkVertical() {
