@@ -1,0 +1,7 @@
+organization=cs2901-2020-2
+projectKey=cs2901-2020-2_final-exam-CarlosReategui
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.15878
+dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2020-2_final-exam-CarlosReategui
+ceTaskId=AXaQ9Ae-qYKY0zcOKH4a
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXaQ9Ae-qYKY0zcOKH4a

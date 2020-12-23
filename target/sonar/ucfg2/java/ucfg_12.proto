@@ -1,0 +1,98 @@
+
+6blockudoku.Blockudoku#elegirPieza(I)Lblockudoku/Pieza;Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java0 0(#"2"3"4"5"6"7"8"9"10*Ã
+2Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaB C("c
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaC C(
+""*¥
+3Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java@ A(9Í
+Ê
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaA A(8
+%7blockudoku.Pieza">blockudoku.Piezas#getBloqueLGrandeVolteada()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaA A(9
+
+%7blockudoku.Pieza*
+4Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java> ?(1Å
+Â
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java? ?(0
+%6blockudoku.Pieza"6blockudoku.Piezas#getBloqueLGrande()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java? ?(1
+
+%6blockudoku.Pieza*Ÿ
+5Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java< =(3Ç
+Ä
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java= =(2
+%5blockudoku.Pieza"8blockudoku.Piezas#getBloqueTVolteado()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java= =(3
+
+%5blockudoku.Pieza*—
+6Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java: ;(+¿
+¼
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java; ;(*
+%4blockudoku.Pieza"0blockudoku.Piezas#getBloqueT()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java; ;(+
+
+%4blockudoku.Pieza*¤
+7Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java8 9(8Ì
+É
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java9 9(7
+%3blockudoku.Pieza"=blockudoku.Piezas#getBloqueLChicaVolteada()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java9 9(8
+
+%3blockudoku.Pieza*œ
+8Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java6 7(0Ä
+Á
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java7 7(/
+%2blockudoku.Pieza"5blockudoku.Piezas#getBloqueLChica()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java7 7(0
+
+%2blockudoku.Pieza*š
+9Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java4 5(.Â
+¿
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java5 5(-
+%1blockudoku.Pieza"3blockudoku.Piezas#getBloqueFila()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java5 5(.
+
+%1blockudoku.Pieza*ž
+10Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java2 3(1Å
+Â
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java3 3(0
+%0blockudoku.Pieza"6blockudoku.Piezas#getBloqueColumna()Lblockudoku/Pieza;*"
+blockudoku.Piezas"u
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java3 3(1
+
+%0blockudoku.Pieza:
+""B"
+blockudoku.Blockudoku

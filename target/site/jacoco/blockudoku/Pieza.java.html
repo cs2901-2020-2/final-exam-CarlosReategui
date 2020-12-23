@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Pieza.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">final-is</a> &gt; <a href="index.source.html" class="el_package">blockudoku</a> &gt; <span class="el_source">Pieza.java</span></div><h1>Pieza.java</h1><pre class="source lang-java linenums">package blockudoku;
+
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class Pieza {
+    private Integer[][] forma;
+    private int altura;
+    private int ancho;
+
+<span class="fc" id="L11">    Logger logger = Logger.getLogger(Pieza.class.getName());</span>
+
+<span class="fc" id="L13">    public Pieza(Integer[][] forma, int altura, int ancho) {</span>
+<span class="fc" id="L14">        this.forma = forma;</span>
+<span class="fc" id="L15">        this.altura = altura;</span>
+<span class="fc" id="L16">        this.ancho = ancho;</span>
+<span class="fc" id="L17">    }</span>
+
+    public Integer[][] getForma() {
+<span class="fc" id="L20">        return forma;</span>
+    }
+
+    public int getAltura() {
+<span class="fc" id="L24">        return altura;</span>
+    }
+
+    public int getAncho() {
+<span class="fc" id="L28">        return ancho;</span>
+    }
+
+    public void printPieza() {
+<span class="fc bfc" id="L32" title="All 2 branches covered.">        for (int i = 0; i &lt; this.getAltura(); ++i) {</span>
+<span class="fc" id="L33">            StringBuilder line = new StringBuilder();</span>
+<span class="fc bfc" id="L34" title="All 2 branches covered.">            for (int j = 0; j &lt; this.getAncho(); ++j) {</span>
+<span class="fc bfc" id="L35" title="All 2 branches covered.">                if (this.getForma()[i][j] == 1) {</span>
+<span class="fc" id="L36">                    line.append('*');</span>
+                } else {
+<span class="fc" id="L38">                    line.append('-');</span>
+                }
+            }
+<span class="fc" id="L41">            line.append('\n');</span>
+<span class="pc bpc" id="L42" title="1 of 2 branches missed.">            if (logger.isLoggable(Level.INFO))</span>
+<span class="fc" id="L43">                logger.info(line.toString());</span>
+        }
+<span class="fc" id="L45">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

@@ -1,0 +1,155 @@
+
+7blockudoku.Blockudoku#ponerPieza(Lblockudoku/Pieza;II)ZY
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaS S($"14*Ä
+13Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaU U("c
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaU U(
+""*Ã
+2Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java` `("c
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java` `(
+""*Ú
+14Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaT T(î
+ë
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaT T(#
+%0boolean"7blockudoku.Blockudoku#piezaChoca(Lblockudoku/Pieza;II)Z*"
+blockudoku.Blockudoku*
+
+piezablockudoku.Pieza*
+""*
+""*
+13
+12*	
+5Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\ \(¦
+£
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\ \(
+%8java.lang.String[][]"__id*$*"
+blockudoku.Blockudoku"
+tableª
+§
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\ \((
+%9java.lang.String[]"
+__arrayGet*
+
+%8java.lang.String[][]*
+""±®
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\- \(=
+
+%10int"blockudoku.Pieza#getAncho()I*
+
+piezablockudoku.Pieza2
+getAncho()Ä
+Á
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\E \(X
+%11java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+""°
+­
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\ \(X
+%12"
+__arraySet*
+
+%9java.lang.String[]*
+""*
+
+%11java.lang.String³
+°
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java\ \((
+%13"
+__arraySet*
+
+%8java.lang.String[][]*
+""*
+
+%9java.lang.String[]*
+7*Ã
+6Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java[ [(¯
+¬
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java[ [( 
+%6java.lang.Integer[]"
+__arrayGet* 
+
+formajava.lang.Integer[][]*
+""¨
+¥
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.java[ [(#
+%7java.lang.Integer"
+__arrayGet*
+
+%6java.lang.Integer[]*
+""*
+5
+7*™
+7Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaZ  Z(!°­
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaZ$ Z(4	
+%5int"blockudoku.Pieza#getAncho()I*
+
+piezablockudoku.Pieza2
+getAncho()*
+6
+9*›
+9Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaY Y(²¯
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaY  Y(1	
+%4int"blockudoku.Pieza#getAltura()I*
+
+piezablockudoku.Pieza2getAltura()*
+2
+7*œ
+11Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaX) X(*²¯
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaX- X(>	
+%3int"blockudoku.Pieza#getAltura()I*
+
+piezablockudoku.Pieza2getAltura()*
+9
+1*š
+12Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaW W(!ÖÓ
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaW W(,
+%1java.lang.Integer[][]"0blockudoku.Pieza#getForma()[[Ljava/lang/Integer;*
+
+piezablockudoku.Pieza2
+getForma()£
+ 
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaW W(-
+formajava.lang.Integer[][]"__id*
+
+%1java.lang.Integer[][]°­
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javaX X(	
+%2int"blockudoku.Pieza#getAncho()I*
+
+piezablockudoku.Pieza2
+getAncho()*
+11
+1*Ã
+1Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javab b("c
+Y
+O/Users/carlosreategui/Desktop/final-is/src/main/java/blockudoku/Blockudoku.javab b(
+"":
+piezablockudoku.Pieza:
+"":
+""B"
+blockudoku.Blockudoku
