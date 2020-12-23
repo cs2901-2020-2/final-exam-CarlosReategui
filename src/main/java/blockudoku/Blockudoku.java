@@ -122,20 +122,14 @@ public class Blockudoku {
     }
 
     public static int checkPuntaje() {
-        int p1 = checkCuadrantes();
         int p2 = checkVertical();
         int p3 = checkHorizontal();
-        int bloques = p1 + p2 + p3;
-        int currentScore = p1 * 150 + p2 * 120 + p3 * 120;
+        int bloques =  p2 + p3;
+        int currentScore =  p2 * 120 + p3 * 120;
         if (bloques >= 3) {
             currentScore *= bloques;
         }
-        score += currentScore;
         return currentScore;
-    }
-
-    public static int checkCuadrantes() {
-        return 0;
     }
 
     public static int checkVertical() {
@@ -184,7 +178,7 @@ public class Blockudoku {
             if (!ponerPieza(piezaElegida, x, y) && logger.isLoggable(Level.INFO)) {
                 logger.info("La pieza no es válida. Volver a intentar");
             }
-            checkPuntaje();
+            score += checkPuntaje();
         }
     }
 }
